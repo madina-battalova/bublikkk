@@ -22,7 +22,7 @@ goal_sound.set_volume(0.1)
 win_sound = pygame.mixer.Sound('win.mp3')
 win_sound.set_volume(0.2)
 
-
+sidney
 # Colors (R, G, B)
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
